@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakib Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<p>I have expertise in HTML, CSS, Git & GitHub, Bootstrap, Tailwind, JavaScript, React, Redux, Firebase, NodeJS, ExpressJS, and MongoDB. I am passionate about exploring new technologies and working in a environment where I can apply my skills and continue to learn and grow as a professional in my field.</p>
+<p>I have expertise in HTML, CSS, Git & GitHub, Bootstrap, Tailwind, JavaScript, React, Redux, Firebase, NodeJS, ExpressJS, and MongoDB. I am passionate about exploring new technologies and working in an environment where I can apply my skills and continue to learn and grow as a professional in my field.</p>
 
 - 🌱 I’m currently learning **NextJS, TypeScript**
 
